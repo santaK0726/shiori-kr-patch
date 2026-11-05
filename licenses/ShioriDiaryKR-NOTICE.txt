@@ -1,0 +1,15 @@
+Shiori Diary KR Regular
+
+Based on Nanum Pen Regular, copyright (c) 2010 NHN Corporation.
+Source: https://github.com/google/fonts/tree/main/ofl/nanumpenscript
+Source font SHA-256: 6f0d1ab29c7894010dc88831fb7a0a51edb79136e450344183de5b1a8b52bd43
+
+Modified for this Korean localization on 2026-10-30:
+- Renamed the derivative to Shiori Diary KR, without the reserved Nanum font names.
+- Added U+2026 as a composite of three original period glyphs.
+- Added original geometric U+300C and U+300D corner punctuation.
+- Retained all existing outlines, including 11,172 Hangul syllables.
+
+This font remains licensed under the SIL Open Font License, Version 1.1.
+See the complete accompanying OFL.txt. It is not to be sold by itself.
+Build recipe: tools/build_diary_font.py in the localization project.

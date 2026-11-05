@@ -1,0 +1,94 @@
+{
+  "source_sha256": "cb88b3c8834f5c5cda1cb99d821fa4ce73aaf0adeb423942aca4111aa489bb0e",
+  "output_sha256": "9b38fa5c295ab4a3d5d3736ec580d05a3015be2d19bae4e058f75d0797aa8c87",
+  "bytes": 59493376,
+  "changed_bytes": 10,
+  "function_rva": [
+    "0x59f560",
+    "0x5a05e6"
+  ],
+  "writes": [
+    {
+      "instruction_rva": "0x59fff6",
+      "file_offset": 5895160,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "460fbe3c3a",
+      "operands": "r15d, byte ptr [rdx + r15]"
+    },
+    {
+      "instruction_rva": "0x5a0006",
+      "file_offset": 5895175,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "0fbe0402",
+      "operands": "eax, byte ptr [rdx + rax]"
+    },
+    {
+      "instruction_rva": "0x5a0014",
+      "file_offset": 5895190,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "460fbe3c3a",
+      "operands": "r15d, byte ptr [rdx + r15]"
+    },
+    {
+      "instruction_rva": "0x5a0024",
+      "file_offset": 5895205,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "0fbe0402",
+      "operands": "eax, byte ptr [rdx + rax]"
+    },
+    {
+      "instruction_rva": "0x5a0056",
+      "file_offset": 5895256,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "460fbe1412",
+      "operands": "r10d, byte ptr [rdx + r10]"
+    },
+    {
+      "instruction_rva": "0x5a0286",
+      "file_offset": 5895816,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "460fbe1c1a",
+      "operands": "r11d, byte ptr [rdx + r11]"
+    },
+    {
+      "instruction_rva": "0x5a0296",
+      "file_offset": 5895831,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "0fbe0402",
+      "operands": "eax, byte ptr [rdx + rax]"
+    },
+    {
+      "instruction_rva": "0x5a02a4",
+      "file_offset": 5895846,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "460fbe1c1a",
+      "operands": "r11d, byte ptr [rdx + r11]"
+    },
+    {
+      "instruction_rva": "0x5a02b4",
+      "file_offset": 5895861,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "0fbe0402",
+      "operands": "eax, byte ptr [rdx + rax]"
+    },
+    {
+      "instruction_rva": "0x5a02e6",
+      "file_offset": 5895912,
+      "source_byte": 190,
+      "target_byte": 182,
+      "source_instruction": "460fbe1c1a",
+      "operands": "r11d, byte ptr [rdx + r11]"
+    }
+  ],
+  "target": "Eden Windows x86-64 de7e6e01d4",
+  "runtime": "User confirmed first character with unchanged original-only control, then character and Korean dialogue with 009"
+}
